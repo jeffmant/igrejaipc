@@ -9,7 +9,7 @@ export default {
       background: '#171023',
       primary: '#2C243B',
       secondary: '#413A4F',
-      tertiary: '4E4563'
+      tertiary: '#4E4563'
     },
     text: {
       primary: '#F5F6F6',
