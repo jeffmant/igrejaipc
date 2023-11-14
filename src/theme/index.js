@@ -6,7 +6,7 @@ export default {
       tertiary: '#734848'
     },
     surface: {
-      background: '#171023',
+      background: '#1e1e1e',
       primary: '#2C243B',
       secondary: '#413A4F',
       tertiary: '#4E4563'
