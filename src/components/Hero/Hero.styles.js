@@ -20,7 +20,7 @@ export const HeroImage1 = styled.img`
   border-radius: 20px;
   position: absolute;
   left: auto;
-  top: 25%;
+  top: 20%;
   right: 30%;
   bottom: 0%;
   width: 40%;
@@ -40,7 +40,7 @@ export const HeroImage2 = styled.img`
   border-radius: 20px;
   position: absolute;
   left: 5%;
-  top: 20%;
+  top: 15%;
   right: auto;
   bottom: 0%;
   width: 40%;
@@ -50,7 +50,7 @@ export const HeroImage2 = styled.img`
   }
 
   @media only screen and (min-width: 700px) {
-    width: 30%;
+    width: 25%;
     left: 10%;
   }
 `
@@ -59,7 +59,7 @@ export const HeroImage3 = styled.img`
   border-radius: 20px;
   position: absolute;
   left: auto;
-  top: 20%;
+  top: 15%;
   right: 5%;
   bottom: 0%;
   width: 40%;
@@ -69,7 +69,8 @@ export const HeroImage3 = styled.img`
   }
 
   @media only screen and (min-width: 700px) {
-    width: 30%;
+    top: 30%;
+    width: 25%;
     right: 10%;
   }
 `
